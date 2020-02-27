@@ -1,0 +1,7 @@
+fullName= input("What is your name?: ")
+print(fullName.title())
+age= input("How old are you?: ")
+favFood= input("What's your Favorite food?: ")
+favSong= input("What is your song?: ")
+favArtist= input("Who is your favorite artist?: ")
+favColor= input("What is your favorite color?: ")
